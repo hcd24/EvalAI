@@ -16,15 +16,15 @@ This app is responsible for providing functionalities to the challenge hosts/org
 
 * **Participants**
 
-This app serves users who want to take part in any challenge. It contains code for creating a Participant Team, through which they can participate in any challenge.
+This app serves users who want to take part in any challenge. It contains code for creating a Participant Team through which they can participate in any challenge.
 
 * **Jobs**
 
-One of the most important apps, responsible for processing and evaluating submissions made by participants. It contains code for creating a submission, changing the visibility of the submission and populating the leaderboard for any challenge.
+This is one of the most important apps, responsible for processing and evaluating submissions made by participants. It contains code for creating a submission, changing the visibility of the submission and populating the leaderboard for any challenge.
 
 * **Web**
 
-This app serves some basic functionalities like providing support for contact us or adding a new contributor to the team, etc.
+This app serves some basic functionalities like providing support for contacting us or adding a new contributor to the team, etc.
 
 * **Accounts**
 
