@@ -8,7 +8,7 @@ We are using REST API's along with Queue based architecture to process submissio
     a submission               message      Exchange                  worker(s)
 
 
-Exchange receives the message and then routes it to the queue `submission_task_queue`. At the end of `submission_task_queue` are workers (scripts/workers/submission_worker.py) which processes the submission message.
+Exchange receives the message and then routes it to the queue `submission_task_queue`. At the end of `submission_task_queue` are workers (scripts/workers/submission_worker.py) who process the submission message.
 
 The worker can be run with
 
