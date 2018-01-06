@@ -9,7 +9,7 @@ Contributing to EvalAI is really easy. Just follow these steps to get started.
 **Step 2: Selecting an issue**
 
 1. Select a suitable issue that will be easy for you to fix. Moreover, you can also 
-take the issues based on their labels. All the issues are labelled according to its difficulty.
+take the issues based on their labels. All the issues are labelled according to their difficulty.
 
 2. After selecting an issue, ask the maintainers of the project to assign it to you and they will assign it based on its availability.
 
