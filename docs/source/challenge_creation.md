@@ -189,7 +189,7 @@ The next step is to create a zip file that contains the YAML config file, all th
 
 The final step is to create a challenge host team for the challenge on EvalAI. After that, just upload the zip folder created in the above steps and the challenge will be created.
 
-If you have issues in creating a challenge on EvalAI, please feel free to create an issue on our Github Issues Page.
+If you have issues while creating a challenge on EvalAI, please feel free to create an issue on our Github Issues Page.
 
 ## Create challenge using web interface
 
