@@ -42,7 +42,7 @@ A challenge can be divided into many phases (or challenge phases). A challenge p
 
 ### Participant
 
-A member of the team competing against other teams for any particular challenge. It is a form of representing a user. A user can participate in many challenges, hence for each challenge, its participant entry will be different.
+A member of the team competing against other teams for any particular challenge. It is a form of representing a user. A user can participate in many challenges, hence for each challenge its participant entry will be different.
 
 ### Participant Team
 
